@@ -1,6 +1,6 @@
 Call Center Support
 ---------------------
-users can call an agent, if agent is not  awilable, they will  go in a waiting   queue, if agent gets available
+users can call an agent, if agent is not  available, they will  go in a waiting   queue, if agent gets available
 only  one  caller  who  is waiting from  longest time  will be  transferred to  agent.  After  caller completes 
 conversation, next  caller  i  waiting  will be  forwarded to agent. Agent  also can see the callers in waiting 
 queue and if required he can forward any of these calls in waiting queue to any other agent or higher authority.
